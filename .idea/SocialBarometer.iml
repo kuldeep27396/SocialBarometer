@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/socialbarometer/socialbarometer/alerts" />
+        <option value="$MODULE_DIR$/socialbarometer/socialbarometer/analyzers" />
+        <option value="$MODULE_DIR$/socialbarometer/socialbarometer/collectors" />
+        <option value="$MODULE_DIR$/socialbarometer/socialbarometer/database" />
+        <option value="$MODULE_DIR$/socialbarometer/socialbarometer/utils" />
+      </list>
+    </option>
+  </component>
+</module>
